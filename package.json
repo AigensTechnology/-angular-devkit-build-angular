@@ -57,7 +57,7 @@
     "semver": "7.3.7",
     "source-map-loader": "4.0.0",
     "source-map-support": "0.5.21",
-    "stylus": "github:PeiJueChen/stylus",
+    "stylus": "git+https://github.com/PeiJueChen/stylus.git",
     "stylus-loader": "7.0.0",
     "terser": "5.14.2",
     "text-table": "0.2.0",
